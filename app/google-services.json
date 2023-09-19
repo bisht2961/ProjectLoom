@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "442833038189",
+    "project_id": "projectloom",
+    "storage_bucket": "projectloom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442833038189:android:e1145bfd7ff020e7594864",
+        "android_client_info": {
+          "package_name": "com.bisht.projectloom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442833038189-l0b2lcqdar8ipaaikic0h8v33u8qv0sr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb28rgoygD0IiXLC1s-YoOfp3dq-RvhQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442833038189-l0b2lcqdar8ipaaikic0h8v33u8qv0sr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
